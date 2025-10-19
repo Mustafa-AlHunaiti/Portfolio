@@ -1,4 +1,4 @@
-# Mustafa's Personal Projects
+# Personal Projects
 
 Welcome to my personal repository!  
 This repo contains my individual projects, experiments, and learning content related to:
